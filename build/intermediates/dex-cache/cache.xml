@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/611739f2fec23d44c6ec16334e344fc58ccabc2f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cfa47e1b140562d47bc670629d07e209cd8b02c4">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d2f63be368642132cc871c18e1547e7640fe29ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/97beb68e229830144865dd825d0a2d156068a2d3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b32372f6821e003ae24cd3389bdd7925247f100">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a8cd569332233bdf83576dc80dd09812924e9ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/23c8c75433a30c82b6107c114aacc2b19a0c1acc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12032271e6be735e811ad529cb08ff066c381640">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6bed1fda4a5c97c74d058a064e3727d2befdf698/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/6a68e3134dc4a1635250ee470d456628e1507d42/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cce5792fa30ee8520620f298bf920309423b180f">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a4a2ea3a67d066df950532a10657a26d458b416/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/e5015b4f03e914516bb6abb845ffc3e184e3950c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bfd85a88cf976eb2c54507cc914d8e8914c2f71e">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9a0ce8f86529b15cbbc951a8a181ae2934827269/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/b1ebba7653a2b11fbdee78aed709dd1d660aad66/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f233cb35a6ea92364130d2d48791c461ec65983">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8763be9041eaa858fdd0728c2b9a9e5fd44daefc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/f7519f08cd97393f4c270ba92c2290fbb7323bd9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7c4f40cf3312f2ecf139df8472ce9d1910bc3048/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/7848eaa5029023818a01b56a081e7149bb44c4a5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b136ac09f209c1d91fec7db8518e33d4373c8f39">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4f4059ea02a4baaf0d54c0b9747ed504e3e19649/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/068a6165b4a31950d3625a1687a148a0753d7857/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6c74dab42788b458960618238f338d324b6f0656">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_17966f6a7c9195b9ea1858de5142fd440699a7ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/5c1ab3a41e3b83841d88eefd324df93f8481d283/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e073140a517edff858ec389feb75e2e28c48e79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/641c7b02d4964f8d28d10f265dcfab64469321e5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7d67042688d34474a82fe4ef4c6514ef471377ef">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ec76b18cc8e176d10fb1806b0e0db4dfe352829/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/0e64c68e9b0745e6d6f31a9ec2e1ed4660fcf741/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_23cf321b0ee5554b62cc3e0f9d4bfff79e41db6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/90e651625ba9b3ed48124a285a91d1a11f852b4a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7ba26433d9e9f4429d83ff65ad79bfc801dc00a">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8158b588528e5de023063a2bc922ad6b976060a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/69f448952c3c46705987594da2c08c52d3e340bc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c43ecf109b1ba5b06ebe3b08a7bea42082b91a84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/db890fcdab3b515215b409802d45ec41697099cf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a119270dab03ebd7a0f02d557b8f381551c3cdad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/4599256ef3b497acef095495dddf692542aeb574/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="825c2e97a00df4df5b0f3081faa4fd6280cd7c72">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_77040e64eff904fd6499623459a17919cbb0b7ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/70ae631cc6696a1e613d3010eaf9168ff40a082f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_927e184ea3087efac2adfdcc0cf35a51f64a0f47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/312ad0e322396f8d5256db714ea45e324228e1fd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d395c5142f474891c7750f13b6a85d14682f166b">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c615c58a222be5d1dc80cc3e5a857582731f5af1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/7101601df6539e75918e6357f699006837ced04d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e68dfa220cfe0e69be7522e87b8de51e6fd0055/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/fe68659edf4c33157c38b33af5fb53172f3cf683/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3a203695754eccfd31a4610f3f304725d6b465ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/f5fe74a6a4ed7424a0c9cecbec9b82afc6a1bb0f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2606137c78b67b24897fc908f898220cc276aaf2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/82bed5c359f794d53affddf11cc99f854a7de563/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f367c0dfb5f776d780082ba2bd3b27b80bae6d38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/57e23a17aa7c3e54c524e629b04c3ecdd7797300/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d81a3b0a16f48b4456f442552b62f4b1a472ce24">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bba720bc6729260df86fd9d6b06060b153ee1d81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/c90a5ec5f145575f7dbdfda5353fb6a26e602640/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="125bce1fb2d481b964fabf75f0949957ebe9ecd1">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8412d24b11950ee0be624a5bc2ecc3b344408b0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/ca6842bfda662e5aed6622d0a0909be4d95a1528/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bb004ea36f8802bad30000e286c177691740a322">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9176ffc9b357877996cba51c9c3b5da36b456612/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/b64bd3cae0f620a55727589c239841ca7af79ce7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4e684205744f814a73b7752545e0661330415c9e">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0098e9134a91a0ea29b3f92f629f027d79f7af51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/ba98d284efeffe9ac26dc5c5e91548cfd6217963/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7afc00eebb0b1f813d8077d330a3d2de7f0e9d3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/3b54350adc1902be34878e2bf116688edc13aa2f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3683531139103cc263b71d8b5ac6062832a8fd30">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_635ed4ccebcbe55914069fbdad41e12c57e65e2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/72b89e6e365d0632ae58166de11f3fd4d9e7ef09/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25f55515117e14a658120a7b01a9ea5170409db4">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5c61c7a6df4e4ca31c76d7c39bb8266505ada2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/94725310e19495f13065c2330ecf50e8ea06db43/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6c66efe3dad940c2889ceace34706de875aa5e01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/de1b9ccebd30f85cb7f9a392ce972ebbcde31078/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="abf7c64e0bbaaa931738856734f76646ae62d9a5">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_44025909ae7b2a4711b8d234dd6171de193d2a97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/d363f23f658b90394b830a564c8331a2f52633fb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5208da818aab33997f8dbd6a47a5fcf063ece136/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/a0314e8100bddc7dd149ee58a64cc9d310cd89be/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b215e312bdc1ee7bfda31674eab5df8bad45c014">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_97a57e6d5a736582c99c55b3653adaced13de797/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/fb468636b39ecbc3cd926c8ee7b1f91dadb19a88/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ee7956aef10bef20e513c7dfd3ce35cdcfd4c753/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/b468ac447088fcd129b10aec7e98b17455d0cb1b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a3826817a4de1daa170c33bbc04db24ab6826bd5">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ea362dc00fba96a40e7b034ba13c948954b551c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/10cf04048b98a9b39289be8d7d2f8130d1743242/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec7d3099b4e3cf23230c78acaae438f3371e1c19">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ccfe1a57c5193529ee11b9d29cd4585205a20205/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/ba8e2f9f55ffe3c329ab8a4875e288bded11ab77/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4851331b3944beb6e7f77316a7661f53781da62">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c28eb8c7aa882dcd42b6be89ed627b0906c300b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/a36c9efa8d89a39e307ed2d59a3976dc28e11e93/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ab8343c3aadefce37313ceadd8bc4db1993f2ff0">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7936b23b87bb231943eb62b8df8dea52b0eccb3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/86c8a024a16b9373303af21903bbfd925390dfd5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e4578d6cb022b60f33808ece9910f1d49395a3fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/281818fd88aa0be25213abec741c4c641fd18c5d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1f9df8b2bfff203397548ee400789154968adfe8">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e60127639f372e56f1fd21af5141027efe1a8fd0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/b45c0597850efec7dd43a06de75c6c3145805695/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44098e691b36776973374ac03afe0225b17f8a74">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fc506474c3ca1ad4244f437ccbffdbbc1c6a54cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bdddfdfdab001cac3095990b7cec33da6465a1ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/579322dbc5c11880f33b3b8004199dc485ce1d63/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="536fd6afd6e1280607c5d70306eb32d385db7964">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e57549df431b749c89419cc7c96055659f456b2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="643ac68094fd467b268c303123b1b8c18f5775fa">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_66e9d60b047fadc2022619dcee59701a0883fcc3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/488e921c06e9d0e83f89a188c22ec52d4e003e44/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efae381df589f3d4977c346c8a980f030315bb8b">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d45ab8910e5d29e93725559d5d01f8c653f5b952/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_08d63dd910203073bab478b6953044416f60c725/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/ca75de13adebae9acda6402c682f741b6c99da5e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0bb2f0934fa55799508ba58ffc9ba579b35744b8">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c5260f9bee9706bd73cd069ddddf7cc01e1cc140/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/a5494f11a3744b1de9582c6abdffd13c6896c092/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8dfe54fbaf4f2a27d395ddf806d0c011170999e0">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_524b15d4e20f365a5aaf28984e54af3350007193/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/59f520e5fca8cefbeea02c8656cec3520c8e7bbe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b2349ddfe04831042844cbf055e5a072da37ddf8">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9e983185532f23d32bccfaa7a94c163c37862259/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/64310a9bfed1e1edd4648f3ab2c37aa7e789a1aa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0cbfcd9b2f039824eb0de746399936ba80f5f363/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/2d8535698314e59fcc8cfaa3bd2256c73cd427c7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5cf1a67645a01c0f87ceba4ee99f8fb646d8cb22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/e80cc2d41a16f881e5ff6f7f35ff399bcc58af57/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c7f923e1df76640acb3a24823600f034a5d226">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_60271601e172999794adfb32f50a3cd812bf4db0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/eca116d9d7f9d29e1fc03edec8aece47c71ab020/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5b8c6d005c72780c3abc3518f614def39b7c0a8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/0fa039496bc078ccd33b950a9c4a002570d8e78f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_20883db66c278ac68af4e099f6d9d0cf2bec9382/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/67026276e3ecebb48c66381f50d181be0f981a07/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6818f5804ca0b5eb089d902458faea4179eca1d">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1bfcafb8a93f763193ab3a35347ada6b70b3c1fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/eab8de59eb9e4ebf5c72efdbcf24224dae29c65b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9210f7014eb6168bc5578aff32775f3a22776ae2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/ed4a7dbadeb90bcfeb1e9a37f166aaa28d16db4a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dbae35d7fc3427d30bef0037bdf61ad0d8d984f8">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1d0413cdf10ff246320424705ee6669650755467/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/16e13654fd83d307d65bc96db5eb62355b9d4795/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da5c606c36276a12a356e351882044c6b4b9e8d4">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be795c03564540be3de243758a074d6b41a0cbb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/fe68659edf4c33157c38b33af5fb53172f3cf683/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_67c2da8d5327c6443efde682685221ed5ec348de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/f31b3d313eb35bb9caf12230b962b9dd48b0efa3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ee29abfc804ebd51d65a4bde424c0ee74363939">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6d3d4a8652012895ee9716edb1f9cdcd18b65b93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leo/.android/build-cache/82bed5c359f794d53affddf11cc99f854a7de563/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/home/leo/Desktop/GoogleMapDirectionSimple-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_1a06fff2d3c4ffb56eba5746b91a6e10304376a4/classes.dex" />
+    </item>
+
+</items>
